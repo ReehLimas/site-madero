@@ -1,17 +1,38 @@
 *{
     padding: 0;
-    margin: 0;
+    margin: 0;    
+    font-family: 'Arvo', serif;
+font-family: 'Cuprum', sans-serif;
+font-family: 'Gruppo', sans-serif;
+font-family: 'Noticia Text', serif;
+font-family: 'Nunito Sans', sans-serif;
+font-family: 'Smooch Sans', sans-serif;
+font-family: 'Teko', sans-serif;
+font-family: 'Victor Mono', monospace;
+font-family: 'Vidaloka', serif;
 }
+
+
+
 .body{
     background-color: rgb(12, 12, 12);
     color: aliceblue;
+    margin-left: 5%;
+    margin-right: 5%;
 }
 .carousel-inner img{
-    width: 100px;
+    width: 250px;
 }
 
 .banner{
-    height: 780px;
+    height: 680px;
     overflow: hidden;
 
 }
+.menu{
+    margin-bottom: 2%;
+}
+p{
+    text-align: center;
+}
+
