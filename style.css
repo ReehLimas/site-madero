@@ -43,3 +43,61 @@ p{
 .footer{
     background-color: rgb(16, 17, 17);
 }
+.headline{
+    font-size: 2.2rem;
+    text-transform: uppercase;
+    font-weight: bold;
+    text-align: center;
+    padding-bottom: 50px;
+    letter-spacing: 2px;
+}
+#navbar{
+    width: 100%;
+    background: #111;
+    color: antiquewhite;
+}
+#navbar-container{
+    width: 80%;
+    margin: auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+#navbar-items{
+    display: flex;
+    list-style: none;
+    text-transform: uppercase;
+}
+#navbar-items li{
+    padding: 10px;
+}
+#showcase{
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: rgb(223, 220, 220);
+    background: url(img/20180726105533289225e.jpg) no-repeat center center/cover;
+}
+
+.doces{
+    width: 100%;
+    background: white;
+    color: #111;
+    padding: 50px;
+}
+#showcase-2{
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: rgb(11, 11, 11);
+    background: url(img/madero-oferece-bebidas-leves-e-saborosas-para-os-dias-de-folia-pt_2017-07-11_14-47-26.jpg) no-repeat center center/cover;}
+    
+    .bebida{
+        width: 100%;
+        background: white;
+        color: #111;
+        padding: 50px;
+    }
+    
